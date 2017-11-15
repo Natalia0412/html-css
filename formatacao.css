@@ -1,0 +1,136 @@
+﻿
+/*Div mensagem*/
+#Mensagem{
+	margin-top:45px;
+	margin-right:10px;
+	margin-left:750px !important; 
+	
+}
+/*formatação imagens */
+img{max-width: 100%;
+    height: auto;
+}
+.img-wrap {max-height:6450px;
+    overflow:hidden;
+	max-width:800px;
+}
+.img-wrap img{width:100%;}
+
+/*formatação menu*/
+body {margin:0;}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  font-family:philosopher,"Lucida Grande",sans-serif,"Lucida Console", Monaco, monospace;
+  font-size:1.0625em;
+  
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1.0625em;
+ 
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+    background-color: #333;
+    color: white;
+}
+
+body{font-family:Georgia, Serif;
+	font-size:1.6em;
+	
+}
+/*rodapé*/
+#foot{
+	font-family:philosopher,"Lucida Grande",sans-serif,"Lucida Console", Monaco, monospace;
+	font-size:1.0625em;
+	background-color:#333;
+	color:white;
+	width:100%;
+	float:left;
+	
+}
+
+/*formatação da guia empresa*/
+/*texto visão*/
+#e{float:left;
+background-color:#fff;
+color:#000;
+margin-bottom:15%;
+	}
+
+}
+/*texto valores*/
+#j{
+	
+}
+/*texto missão*/
+#n{
+		font-size:1.6em;
+		font-family:Georgia,Serif;
+
+}
+/*o negocio*/
+#f{
+margin-top:12% 
+}
+#imagem{ 
+	display: block;
+    margin-left: 32%;
+    margin-right: auto
+	
+	 
+}
+  
+
+
+/*imagem da guia projeto*/
+#i{transform:skewx(-15deg);
+width:2,76%;
+height:1,83%;
+margin-top:-17%;
+margin-left:70%;
+margin-right:4%;
+}
+
+/*formatação projeto*/
+/* texto sobre a tecjobs*/
+#t{width:60%;
+height:10%;
+margin-top:5%;
+}
+/*formatação texto o objetivo */
+#d{width:60%;
+height:10%;
+margin-top:8%;
+margin-bottom:15%;
+
+}
+
+#contato{	
+	 width: 13em; 
+	 word-wrap:normal;
+	
+}
+
+#teste {
+	width:70%;
+	height:15%;
+	margin-top:8%;
+	margin-bottom:15%;
+   	margin-left: auto;
+    margin-right: auto;
+	float:center;
+	
+}
