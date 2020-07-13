@@ -1,4 +1,12 @@
 # Site Feito com as linguagens HTML e CSS
 Aqui está as imagens de como ficou o site 
 
-![Pagina Inicial](https://github.com/Natalia0412/html-css/commit/2cfc05c19bc79df6f7b5091ec3e32574b0f1963d)
+![Pagina Inicial](https://github.com/Natalia0412/html-css/blob/master/img1.png)
+
+
+![Pagina A Empresa](https://github.com/Natalia0412/html-css/blob/master/img2.png)
+
+
+![Pagina Projeto](https://github.com/Natalia0412/html-css/blob/master/img3.png)
+
+![Pagina Contato](https://github.com/Natalia0412/html-css/blob/master/img4.png)
